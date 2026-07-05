@@ -5,7 +5,7 @@ const PRIVATE_KEY = process.env.PRIVATE_KEY;
 const BASESCAN_API_KEY = process.env.BASESCAN_API_KEY;
 
 module.exports = {
-  solidity: {
+  solidity:{
     version: "0.8.20",
     settings: {
       optimizer: { enabled: true, runs: 200 },
