@@ -7,7 +7,7 @@ const BASESCAN_API_KEY = process.env.BASESCAN_API_KEY;
 module.exports = {
   solidity:{
     version: "0.8.20",
-    settings: {
+    ttings: {
       optimi { enabled: true, runs: 200 },
     },
   },
