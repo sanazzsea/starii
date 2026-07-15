@@ -8,7 +8,7 @@ module.exports = {
   solidity:{
     version: "0.8.20",
     ttings: {
-      optimi { enabled: true, runs: 200 },
+      optimi { enabled: true, : 200 },
     },
   },
   networks: {
