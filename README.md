@@ -5,7 +5,7 @@ const PRIVATE_KEY = process.env.PRIVATE_KEY;
 const BASESCAN_API_KEY = process.env.BASESCAN_API_KEY;
 
 module.export {
-  solidity:{
+  solidi
     version: "0.8.20",
     t
       optimi { enabledrue, : 200 },
