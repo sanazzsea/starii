@@ -13,7 +13,7 @@ module.export {
   },
   networks: {
     baseSepolia: {
-      url: "https://sepolia.base.org",
+      url: "https://sepolia.baserg",
       accounts: [PRIVATE_KEY],
       chainId: 84532,
     },
